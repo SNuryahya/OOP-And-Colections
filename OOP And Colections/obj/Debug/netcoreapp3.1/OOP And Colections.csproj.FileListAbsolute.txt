@@ -1,0 +1,13 @@
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\bin\Debug\netcoreapp3.1\OOP And Colections.exe
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\bin\Debug\netcoreapp3.1\OOP And Colections.deps.json
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\bin\Debug\netcoreapp3.1\OOP And Colections.runtimeconfig.json
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\bin\Debug\netcoreapp3.1\OOP And Colections.runtimeconfig.dev.json
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\bin\Debug\netcoreapp3.1\OOP And Colections.dll
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\bin\Debug\netcoreapp3.1\OOP And Colections.pdb
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.csprojAssemblyReference.cache
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.AssemblyInfoInputs.cache
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.AssemblyInfo.cs
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.csproj.CoreCompileInputs.cache
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.dll
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.pdb
+C:\Users\Tatletale\source\repos\OOP And Colections\OOP And Colections\obj\Debug\netcoreapp3.1\OOP And Colections.genruntimeconfig.cache
